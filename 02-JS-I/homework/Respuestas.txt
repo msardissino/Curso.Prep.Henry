@@ -1,0 +1,21 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+    Variables: Una variable es un espacio en memoria reservado para guardar informacion que necesites utilizar. 
+
+    String: Un string es una cadena de caracteres, osea una cadena de texto. Estas siempre se escriben entre comillas.
+
+    Funciones: Nos ayudan a agrupar codigo y reutilizarlo. Siempre nos devuelve un resultado.
+    Argumentos: son los datos que recibe nuestra funcion. Una funcion puede no llevar argumentos.
+    return: dentro de una funcion cuando se esta ejecutando al encontrarse la palabra reservada return la funcion finaliza.
+
+    if: la estructura de control if nos ayuda a controlar por medio de condiciones que parte de nuestro codigo se ejecutara.
+
+    Booleanos ( true , false) : True significa verdadero. false signifa falso.
+    los booleanos tiene dos estados posibles true (1) or false (0)
+    
