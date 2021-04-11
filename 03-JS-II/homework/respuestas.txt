@@ -1,0 +1,12 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+for : es una estructura que nos permite repetir acciones.
+
+&& , AND , Y : es un operador logico que nos sirve para realizar comparaciones entre condiciones y solo nos devolvera que es verdadero cuando todas las condiciones sean verdaderas.
+
+|| , OR , O: es un operador logico que nos sirve para realizar comparaciones entre condiciones y solo nos devolvera que es verdadero cuando al menos una de las condiciones sea verdadera.
+
+!, Negacion: Este es un operador logico que lo que hara sera negar. por ejemplo: si tenemos true y lo negamos nos dara como resultado false y viceversa.
